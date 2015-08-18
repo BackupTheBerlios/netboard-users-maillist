@@ -1,0 +1,55 @@
+From golish at niente.eu.org  Sat May 14 10:51:45 2005
+From: golish at niente.eu.org (Marcin 'golish' Goliszewski)
+Date: Sat, 14 May 2005 10:51:45 +0200
+Subject: [netboard-users] netboard 0.1 released
+Message-ID: <200505141051.54289@mala.niente.eu.org>
+
+Hello.
+
+The first public version of netboard has been just released. Please note 
+that the application is still in pre-alpha state so you can't rely on 
+it for anything. In fact you shouldn't even consider it fully useful 
+yet. Nevertheless, you are welcome to test it and report bugs, missing 
+features etc. Any feedback will be greatly appreciated. 
+
+Have fun! ;)
+
+-- 
+ /---    Marcin     ||   Immortality is the   ---\
+<=      'golish'    ||   only fate which is      =>
+ \---  Goliszewski  ||   worse than death.    ---/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netboard-users/attachments/20050514/03b7ec00/attachment.pgp>
+
+From golish at niente.eu.org  Sun May 29 14:39:47 2005
+From: golish at niente.eu.org (Marcin 'golish' Goliszewski)
+Date: Sun, 29 May 2005 14:39:47 +0200
+Subject: [netboard-users] netboard 0.2 released
+Message-ID: <200505291439.52827@mala.niente.eu.org>
+
+Hi all.
+
+The 0.2 version of netboard brings you a totally new standard of 
+drawing. What's new? Well, see the ChangeLog for details but just to 
+summarize: now it can be considered useful, at least in some 
+applications ;) As usual bug reports and feature requests are most 
+welcome. 
+
+Have fun ;)
+-- 
+ /---    Marcin     ||   Immortality is the   ---\
+<=      'golish'    ||   only fate which is      =>
+ \---  Goliszewski  ||   worse than death.    ---/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netboard-users/attachments/20050529/817408ab/attachment.pgp>
+
